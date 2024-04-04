@@ -3,15 +3,9 @@ layout: layout.liquid
 title: About
 ---
 
-# About Orbit Odyssey
+#  Moon 
+Earth's moon is visible from Earth. According to NASA, the moon was likely formed after a Mars-sized body collided with earth several billion years ago. The Moon is crucial to keeping life on Earth stable. the Moon moderates Earth's axis, leading to a stable climate and creating tides.
 
+<img class="about" alt="planet" src="/images/moon.png" width="260" /> 
+<img class="about" alt="planet" src="/images/earth.png" width="90" />
 
-My blog was created in 2024, with the goal of sharing my experiences across the galaxy. I am an intergallactic traveller, and I visit a new planet every week, interviewing the planet's residents and exploring ecosystems.  I am native to planet Earth.
-
-For suggestions on what I should see next, Reach me at: 
-
-ufowriter@earth.com 
-
-Thanks!
-
-<img class="about" alt="planet" src="/images/planet.png" width="70" />
