@@ -43,11 +43,12 @@ h1 {
     letter-spacing: -2px;
 }
 
-h1 strong {
-    background: rgb(255, 255, 255);
-    background: repeating-radial-gradient(45deg, rgb(121, 107, 247) 0%, rgb(25, 194, 245) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
 
+.images {
+
+    margin-top: 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 
 }
